@@ -2,7 +2,7 @@
 
 本项目是 Kaggle **CIFAR-10 图像分类竞赛** 的解决方案，使用 **PyTorch** 进行训练，最终达到 **高准确率** 的分类性能。🚀
 
-![CIFAR-10-Competition](https://www.kaggle.com/competitions/cifar-10/overview)
+[CIFAR-10-Competition](https://www.kaggle.com/competitions/cifar-10/overview)
 
 ---
 
